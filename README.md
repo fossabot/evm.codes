@@ -11,6 +11,8 @@ This is the source code that runs [evm.codes](https://evm.codes) web application
 evm.codes is brought to you by [Dune](https://dune.com/home), powered by open-source projects such as [EthereumJS](https://github.com/ethereumjs/ethereumjs-monorepo), [SolcJS](https://github.com/ethereum/solc-js) and [many others](package.json).
 
 ## ⚙️ Installation
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fevm.codes.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fevm.codes?ref=badge_shield)
+
 
 The app requires the following dependencies:
 
@@ -72,3 +74,6 @@ If you would like to contribute, make sure to check the [architecture document](
 ## License
 
 [MIT](LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fevm.codes.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fevm.codes?ref=badge_large)
